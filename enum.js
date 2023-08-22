@@ -1,3 +1,4 @@
+"use strict";
 var Data;
 (function (Data) {
     Data[Data["ADMIN"] = 0] = "ADMIN";
